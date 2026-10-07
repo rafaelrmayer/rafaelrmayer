@@ -1,333 +1,185 @@
-# Rafael Ricardo Mayer
+Rafael Mayer
 
-### Tecnologia, Inteligência Artificial, acessibilidade e experimentação aplicada
+Artificial Intelligence • Assistive Technology • Educational Technology
 
-Sou desenvolvedor e pesquisador independente, interessado em transformar tecnologia em soluções que tenham um propósito além do código.
+«Transformando inteligência artificial em soluções que fazem sentido para pessoas.»
 
-Meu trabalho combina desenvolvimento de software, Inteligência Artificial, acessibilidade e experimentação com novas formas de interação entre pessoas e tecnologia.
+Sou profissional de tecnologia e pesquisador dedicado ao desenvolvimento de soluções de Inteligência Artificial aplicadas à educação, acessibilidade e tecnologia assistiva, com atuação especialmente voltada a pessoas neurodivergentes.
 
-Atualmente, uma das minhas principais linhas de pesquisa e desenvolvimento é a criação de tecnologias assistivas para pessoas autistas com necessidades complexas de comunicação.
+Meu trabalho envolve o desenvolvimento de sistemas inteligentes utilizando redes neurais artificiais, Machine Learning, visão computacional e interfaces acessíveis, buscando transformar desafios reais em ferramentas capazes de ampliar autonomia, comunicação, aprendizado e inclusão.
 
----
-
-## 🧩 A Jornada de Bia
-
-> **Comunicação é amor, e o amor é infinito.**
-
-**A Jornada de Bia** é um projeto de tecnologia assistiva criado para explorar como software, personalização e Inteligência Artificial podem apoiar a comunicação de pessoas autistas não verbais ou com necessidades complexas de comunicação.
-
-O projeto começou com uma pergunta simples:
-
-> **Como podemos ajudar uma pessoa que não consegue falar a dizer "eu estou aqui" e encontrar alguém disposto a escutá-la?**
-
-A partir dessa pergunta nasceu uma aplicação web progressiva que utiliza cartões de comunicação, síntese de voz, personalização e mecanismos de aprendizado para construir uma experiência de comunicação mais simples e adaptável.
-
-### Principais conceitos
-
-- Comunicação por símbolos e cartões
-- Síntese de voz
-- Personalização da comunicação
-- Interface de baixa complexidade
-- Modo para a pessoa usuária
-- Modo para responsável
-- Favoritos e frases personalizadas
-- Funcionamento como PWA
-- Armazenamento local
-- Backup e restauração
-- Segurança e proteção de dados
-- Camada de inteligência adaptativa
-- Experimentação com Machine Learning
-- Pesquisa futura com redes neurais artificiais
-
-### Arquitetura em evolução
-
-```text
-Pessoa usuária
-      │
-      ▼
-Interface simples
-      │
-      ▼
-Cartões e símbolos
-      │
-      ▼
-Construção da comunicação
-      │
-      ├──────────────► Síntese de voz
-      │
-      ▼
-Memória e personalização
-      │
-      ▼
-Camada de inteligência
-      │
-      ├── Contexto
-      ├── Histórico
-      ├── Frequência
-      ├── Sequências
-      └── Preferências
-      │
-      ▼
-Sugestões personalizadas
-```
-
-A ideia é que a complexidade fique **por trás da interface**.
-
-A pessoa não precisa entender a Inteligência Artificial para utilizá-la.
+Acredito na tecnologia como uma ponte entre conhecimento, criatividade e potencial humano.
 
 ---
 
-## 🧠 Pesquisa em Inteligência Artificial
+🌻 Sobre mim
 
-Uma das linhas que estou desenvolvendo a partir da Jornada de Bia é o estudo de arquiteturas adaptativas capazes de aprender padrões individuais de comunicação.
+- 🤖 Inteligência Artificial e Machine Learning
+- 🧠 Desenvolvimento de soluções com redes neurais artificiais
+- 🧩 Tecnologia assistiva e acessibilidade digital
+- 🧠 Desenvolvimento de soluções para pessoas neurodivergentes
+- 🎓 IA aplicada à educação
+- 👁️ Visão computacional
+- 🌐 Desenvolvimento Web e aplicações inteligentes
+- 🔬 Pesquisa e experimentação com novas tecnologias
+- 🐍 Python, JavaScript e desenvolvimento de sistemas
 
-A proposta não é simplesmente utilizar uma IA generativa para produzir frases.
+Meus projetos exploram principalmente a interseção entre:
 
-O objetivo é investigar mecanismos capazes de observar, de forma controlada, padrões como:
+IA × Redes Neurais × Educação × Acessibilidade × Tecnologia Assistiva × Experiência Humana
 
-- símbolos utilizados com maior frequência;
-- sequências recorrentes;
-- combinações de cartões;
-- contexto de utilização;
-- horários;
-- preferências individuais;
-- possíveis relações entre símbolos e intenções.
+---
 
-A partir desses dados, o sistema pode sugerir possibilidades de comunicação, sempre mantendo a pessoa responsável ou profissional como parte importante do processo de validação.
+🚀 Projetos em destaque
 
-### Da lógica baseada em regras às redes neurais
+🌻 A Jornada de Bia
 
-A evolução que estou estudando passa por diferentes níveis:
+«"Não é sobre ensinar alguém a falar. É sobre garantir que sua voz possa ser ouvida."»
 
-```text
-Regras
-  ↓
-Personalização
-  ↓
-Análise de contexto
-  ↓
+A Jornada de Bia nasceu com um propósito maior do que desenvolver uma aplicação: criar uma ferramenta de comunicação e autonomia para pessoas autistas não verbais.
+
+O projeto foi desenvolvido para ajudar pessoas que não utilizam a fala como principal forma de comunicação a expressar necessidades, sentimentos, escolhas e desejos, utilizando uma interface visual, acessível e previsível.
+
+Mais do que um projeto de tecnologia assistiva, A Jornada de Bia representa uma ideia simples:
+
+não falar não significa não ter o que dizer.
+
+O girassol 🌻 representa essa jornada: crescimento, individualidade, luz e a possibilidade de cada pessoa encontrar sua própria forma de se expressar.
+
+O projeto explora conceitos de:
+
+- 🧩 Comunicação alternativa e aumentativa
+- 🧠 Neurodiversidade e acessibilidade
+- 💬 Autonomia e expressão individual
+- 🎨 Interfaces visuais acessíveis
+- 🔐 Segurança e privacidade
+- 📱 Progressive Web App (PWA)
+- 💾 Persistência e armazenamento local
+- ❤️ Tecnologia centrada na pessoa
+
+Tecnologias:
+"HTML" "CSS" "JavaScript" "PWA" "Service Worker" "Web APIs"
+
+---
+
+🌌 COSMOS — Meu Lugar no Universo
+
+Uma experiência digital desenvolvida para criar um ambiente sensorialmente amigável, educativo e acessível, especialmente pensado para crianças neurodivergentes.
+
+O projeto combina tecnologia assistiva, exploração do universo e APIs científicas, incluindo dados da NASA.
+
+A proposta é transformar a tecnologia em uma experiência de descoberta, curiosidade e autonomia, criando um espaço onde educação, acessibilidade e imaginação possam coexistir.
+
+Tecnologias:
+"HTML" "CSS" "JavaScript" "APIs" "PWA" "NASA APIs" "Accessibility"
+
+«"Feito para lembrar que todo mundo tem um lugar no Universo."»
+
+---
+
+🤖 Rotina Visual Inteligente
+
+Projeto experimental de IA aplicada à tecnologia assistiva, utilizando aprendizado de máquina para identificar padrões de utilização e realizar sugestões personalizadas.
+
+A aplicação explora uma abordagem de aprendizado contínuo, utilizando o comportamento do usuário para melhorar as recomendações ao longo do tempo.
+
+Tecnologias:
+"Python" "Flask" "scikit-learn" "NumPy" "JavaScript" "REST API" "Machine Learning"
+
+---
+
+👁️ FaceLab
+
+Experimentos relacionados a visão computacional e Inteligência Artificial, explorando reconhecimento e processamento de imagens.
+
+Tecnologias:
+"Python" "Computer Vision" "Machine Learning"
+
+---
+
+🛠️ Tecnologias
+
+Linguagens
+
+"Python" (https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+"JavaScript" (https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+"C" (https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+"PHP" (https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+Inteligência Artificial
+
+"Machine Learning" (https://img.shields.io/badge/Machine%20Learning-Python-3776AB?style=for-the-badge)
+"scikit-learn" (https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+"NumPy" (https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+Web & Backend
+
+"HTML5" (https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+"CSS3" (https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+"Flask" (https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+Ferramentas
+
+"Git" (https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+"GitHub" (https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+"Linux" (https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+🔬 Áreas de interesse
+
+Artificial Intelligence
+Artificial Neural Networks
 Machine Learning
-  ↓
-Modelos preditivos
-  ↓
-Redes neurais artificiais
-  ↓
-Arquiteturas adaptativas
-```
-
-A Jornada de Bia funciona, portanto, também como um laboratório para investigar essa evolução.
-
----
-
-## 📚 Pesquisa acadêmica
-
-A experiência de desenvolvimento da Jornada de Bia também deu origem a uma linha de pesquisa acadêmica sobre Inteligência Artificial, comunicação personalizada e tecnologia assistiva.
-
-### Tema de pesquisa
-
-**Redes neurais artificiais e comunicação personalizada: uma proposta de arquitetura adaptativa para apoio à comunicação de pessoas autistas com necessidades complexas de comunicação**
-
-A pesquisa investiga uma possível arquitetura capaz de combinar:
-
-- interface de comunicação;
-- registros controlados;
-- proteção de dados;
-- personalização;
-- aprendizado individual;
-- modelos de Inteligência Artificial;
-- sugestões de comunicação;
-- validação humana.
-
-O objetivo é discutir possibilidades tecnológicas sem confundir protótipo experimental com eficácia clínica comprovada.
+Assistive Technology
+Educational Technology
+Neurodiversity & Accessibility
+Computer Vision
+Human-Centered AI
+Intelligent Interfaces
+Digital Inclusion
+Robotics
 
 ---
 
-# 🌌 COSMOS
+🎓 Formação & Pesquisa
 
-Outro projeto em desenvolvimento é o **COSMOS**, uma iniciativa experimental relacionada à astronomia, exploração do céu e tecnologia.
+Minha trajetória acadêmica e profissional combina diferentes áreas do conhecimento, incluindo:
 
-A ideia é investigar formas de tornar a experiência de exploração astronômica mais acessível e interessante, especialmente para crianças.
+Gestão da Informação · Física · Ciência da Computação · Gestão de Pessoas
 
-O projeto representa uma segunda linha de experimentação:
-
-> **usar tecnologia para transformar curiosidade em experiência.**
+Meus estudos e projetos estão concentrados na aplicação prática da Inteligência Artificial, especialmente em soluções que aproximam tecnologia, educação, acessibilidade e sociedade.
 
 ---
 
-# 🤖 Experimentações com Inteligência Artificial
+🌎 Filosofia
 
-Além dos projetos principais, este perfil reúne experimentos e protótipos relacionados a diferentes áreas da computação.
+Acredito que tecnologia não deve existir apenas para tornar processos mais rápidos.
 
-Entre os temas explorados estão:
+Ela deve também tornar o mundo mais acessível, mais inteligente e mais humano.
 
-- Machine Learning
-- Redes Neurais Artificiais
-- visão computacional
-- processamento de dados
-- interfaces interativas
-- aplicações web
-- automação
-- tecnologia assistiva
-- experimentação com IA
+Por isso, meus projetos procuram explorar uma pergunta simples:
 
-Alguns projetos são experimentais e podem mudar bastante ao longo do desenvolvimento.
-
-Isso faz parte do processo.
+«E se a inteligência artificial pudesse ajudar as pessoas não apenas a fazer mais, mas a viver melhor?»
 
 ---
 
-# 🛠️ Tecnologias e áreas de interesse
+📊 GitHub
 
-### Desenvolvimento
+"Rafael's GitHub stats" (https://github-readme-stats.vercel.app/api?username=rafaelrmayer&show_icons=true&hide_border=true&count_private=true)
 
-`HTML` · `CSS` · `JavaScript` · `Python`
-
-### Inteligência Artificial
-
-`Machine Learning` · `Random Forest` · `Redes Neurais` · `IA Adaptativa`
-
-### Web
-
-`PWA` · `Web APIs` · `Local Storage` · `Service Workers`
-
-### Pesquisa
-
-`Tecnologia Assistiva` · `Acessibilidade` · `Comunicação Aumentativa e Alternativa` · `Interação Humano-Computador`
+"Top Languages" (https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelrmayer&layout=compact&hide_border=true)
 
 ---
 
-# 🔐 Tecnologia com responsabilidade
+📫 Contato
 
-Projetos que envolvem pessoas e dados exigem mais do que funcionamento técnico.
+🌐 GitHub: "github.com/rafaelrmayer" (https://github.com/rafaelrmayer)
 
-Por isso, uma parte importante do meu trabalho envolve estudar:
-
-- privacidade;
-- segurança;
-- minimização de dados;
-- proteção de informações;
-- transparência;
-- controle humano;
-- utilização responsável de Inteligência Artificial;
-- proteção de dados de crianças e pessoas vulneráveis.
-
-A tecnologia precisa ser útil, mas também precisa ser responsável.
+📱 Instagram: "@rafael_rmayer" (https://instagram.com/rafael_rmayer)
 
 ---
 
-# 🚧 O que estou desenvolvendo atualmente
+🌻 Sempre explorando. Sempre aprendendo. Sempre construindo.
 
-### A Jornada de Bia
-
-`🟢 Desenvolvimento e testes`
-
-Atualmente o foco está em:
-
-- testar a experiência real de utilização;
-- simplificar a interface;
-- reduzir elementos desnecessários;
-- preservar a estabilidade;
-- melhorar segurança e backup;
-- observar padrões de utilização;
-- preparar a arquitetura para futuras experiências com Inteligência Artificial.
-
-### Pesquisa em Redes Neurais
-
-`🔬 Pesquisa`
-
-Estudo de arquiteturas adaptativas para comunicação personalizada e tecnologia assistiva.
-
-### COSMOS
-
-`🚧 Experimentação`
-
-Exploração de astronomia, acessibilidade e tecnologia.
-
----
-
-# 🗺️ Roadmap
-
-```text
-A Jornada de Bia
-
-✓ Comunicação básica
-✓ Cartões e símbolos
-✓ Síntese de voz
-✓ Personalização
-✓ Favoritos
-✓ Modo Bia
-✓ Modo Responsável
-✓ Backup e restauração
-✓ Camadas iniciais de inteligência
-
-🚧 Testes de usabilidade
-🚧 Refinamento da interface
-🚧 Segurança e estabilidade
-🚧 Aprendizado personalizado
-
-🔬 Machine Learning
-🔬 Modelos preditivos
-🔬 Redes neurais artificiais
-🔬 Arquitetura adaptativa
-```
-
----
-
-# ☕ Sobre este GitHub
-
-Este perfil não é apenas uma coleção de projetos finalizados.
-
-É também um registro de experimentação.
-
-Alguns repositórios são protótipos.  
-Alguns são estudos.  
-Alguns são versões intermediárias.  
-Alguns provavelmente serão abandonados.
-
-E tudo bem.
-
-Desenvolver também é descobrir o que não funciona.
-
-> **O código mostra o que foi construído.  
-> O histórico mostra o que foi aprendido.**
-
----
-
-# 📌 Projetos em destaque
-
-| Projeto | Área | Status |
-|---|---|---|
-| 🧩 **A Jornada de Bia** | Tecnologia assistiva + IA | 🟢 Ativo |
-| 🌌 **COSMOS** | Astronomia + acessibilidade | 🚧 Em desenvolvimento |
-| 🤖 **Experimentos de IA** | Machine Learning + visão computacional | 🔬 Experimental |
-| 🧠 **Pesquisa em Redes Neurais** | IA + comunicação personalizada | 🔬 Pesquisa |
-
----
-
-# 👤 Sobre mim
-
-**Rafael Ricardo Mayer**
-
-Desenvolvedor, pesquisador independente e entusiasta de Inteligência Artificial.
-
-Tenho interesse especial em projetos que conectam tecnologia com problemas humanos reais.
-
-Atualmente concentro meus estudos e experimentações em:
-
-**Inteligência Artificial · Tecnologia Assistiva · Acessibilidade · Redes Neurais · Comunicação · Interação Humano-Computador**
-
----
-
-## 🌱 Em constante construção
-
-Este perfil, assim como meus projetos, está em evolução.
-
-Novas ideias serão testadas.  
-Algumas funcionarão.  
-Outras não.
-
-Mas todas fazem parte do caminho.
-
-**Porque tecnologia não deveria existir apenas para demonstrar o que uma máquina consegue fazer.**
-
-**Ela também pode existir para ajudar alguém a ser ouvido.**
+Artificial Intelligence • Technology • Accessibility • Education • Human Potential
