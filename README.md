@@ -2,7 +2,7 @@ Rafael Mayer
 
 Artificial Intelligence • Assistive Technology • Educational Technology
 
-«Transformando inteligência artificial em soluções que fazem sentido para pessoas.»
+Transformando inteligência artificial em soluções que fazem sentido para pessoas.
 
 Sou profissional de tecnologia e pesquisador dedicado ao desenvolvimento de soluções de Inteligência Artificial aplicadas à educação, acessibilidade e tecnologia assistiva, com atuação especialmente voltada a pessoas neurodivergentes.
 
@@ -165,7 +165,7 @@ Ela deve também tornar o mundo mais acessível, mais inteligente e mais humano.
 
 Por isso, meus projetos procuram explorar uma pergunta simples:
 
-«E se a inteligência artificial pudesse ajudar as pessoas não apenas a fazer mais, mas a viver melhor?»
+E se a inteligência artificial pudesse ajudar as pessoas não apenas a fazer mais, mas a viver melhor?
 
 ---
 
