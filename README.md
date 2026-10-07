@@ -57,8 +57,7 @@ O projeto explora conceitos de:
 - 💾 Persistência e armazenamento local
 - ❤️ Tecnologia centrada na pessoa
 
-Tecnologias:
-"HTML" "CSS" "JavaScript" "PWA" "Service Worker" "Web APIs"
+Tecnologias: "HTML" "CSS" "JavaScript" "PWA" "Service Worker" "Web APIs"
 
 ---
 
@@ -70,8 +69,7 @@ O projeto combina tecnologia assistiva, exploração do universo e APIs científ
 
 A proposta é transformar a tecnologia em uma experiência de descoberta, curiosidade e autonomia, criando um espaço onde educação, acessibilidade e imaginação possam coexistir.
 
-Tecnologias:
-"HTML" "CSS" "JavaScript" "APIs" "PWA" "NASA APIs" "Accessibility"
+Tecnologias: "HTML" "CSS" "JavaScript" "APIs" "PWA" "NASA APIs" "Accessibility"
 
 «"Feito para lembrar que todo mundo tem um lugar no Universo."»
 
@@ -83,8 +81,7 @@ Projeto experimental de IA aplicada à tecnologia assistiva, utilizando aprendiz
 
 A aplicação explora uma abordagem de aprendizado contínuo, utilizando o comportamento do usuário para melhorar as recomendações ao longo do tempo.
 
-Tecnologias:
-"Python" "Flask" "scikit-learn" "NumPy" "JavaScript" "REST API" "Machine Learning"
+Tecnologias: "Python" "Flask" "scikit-learn" "NumPy" "JavaScript" "REST API" "Machine Learning"
 
 ---
 
@@ -92,8 +89,7 @@ Tecnologias:
 
 Experimentos relacionados a visão computacional e Inteligência Artificial, explorando reconhecimento e processamento de imagens.
 
-Tecnologias:
-"Python" "Computer Vision" "Machine Learning"
+Tecnologias: "Python" "Computer Vision" "Machine Learning"
 
 ---
 
@@ -102,26 +98,35 @@ Tecnologias:
 Linguagens
 
 "Python" (https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
 "JavaScript" (https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
 "C" (https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+
 "PHP" (https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 Inteligência Artificial
 
 "Machine Learning" (https://img.shields.io/badge/Machine%20Learning-Python-3776AB?style=for-the-badge)
+
 "scikit-learn" (https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
 "NumPy" (https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
 Web & Backend
 
 "HTML5" (https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
 "CSS3" (https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
 "Flask" (https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 Ferramentas
 
 "Git" (https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
 "GitHub" (https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
 "Linux" (https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
@@ -174,9 +179,9 @@ Por isso, meus projetos procuram explorar uma pergunta simples:
 
 📫 Contato
 
-🌐 GitHub: "github.com/rafaelrmayer" (https://github.com/rafaelrmayer)
+🌐 GitHub: https://github.com/rafaelrmayer
 
-📱 Instagram: "@rafael_rmayer" (https://instagram.com/rafael_rmayer)
+📱 Instagram: https://instagram.com/rafael_rmayer
 
 ---
 
