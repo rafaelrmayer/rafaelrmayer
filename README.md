@@ -71,7 +71,7 @@ A proposta é transformar a tecnologia em uma experiência de descoberta, curios
 
 Tecnologias: "HTML" "CSS" "JavaScript" "APIs" "PWA" "NASA APIs" "Accessibility"
 
-«"Feito para lembrar que todo mundo tem um lugar no Universo."»
+"Feito para lembrar que todo mundo tem um lugar no Universo."
 
 ---
 
