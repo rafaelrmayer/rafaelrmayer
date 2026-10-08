@@ -2,7 +2,7 @@ Rafael Mayer
 
 Artificial Intelligence • Assistive Technology • Educational Technology
 
-«<strong>Transformando inteligência artificial em soluções que fazem sentido para pessoas.</strong>»
+<strong>Transformando inteligência artificial em soluções que fazem sentido para pessoas.</strong>
 
 Sou profissional de tecnologia e pesquisador dedicado ao desenvolvimento de <strong>soluções de Inteligência Artificial aplicadas à educação, acessibilidade e tecnologia assistiva</strong>, com atuação especialmente voltada a <strong>pessoas neurodivergentes</strong>.
 
@@ -34,7 +34,7 @@ Meus projetos exploram principalmente a interseção entre:
 
 🌻 A Jornada de Bia
 
-«<strong>"Não é sobre ensinar alguém a falar. É sobre garantir que sua voz possa ser ouvida."</strong>»
+<strong>"Não é sobre ensinar alguém a falar. É sobre garantir que sua voz possa ser ouvida."</strong>
 
 A Jornada de Bia nasceu com um propósito maior do que desenvolver uma aplicação: <strong>criar uma ferramenta de comunicação e autonomia para pessoas autistas não verbais</strong>.
 
@@ -71,7 +71,7 @@ A proposta é transformar a tecnologia em uma experiência de descoberta, curios
 
 <strong>Tecnologias:</strong> "HTML" "CSS" "JavaScript" "APIs" "PWA" "NASA APIs" "Accessibility"
 
-«<strong>"Feito para lembrar que todo mundo tem um lugar no Universo."</strong>»
+<strong>"Feito para lembrar que todo mundo tem um lugar no Universo."</strong>
 
 ---
 
