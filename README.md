@@ -1,168 +1,72 @@
-Rafael Mayer
+# Rafael Mayer
 
-Artificial Intelligence • Assistive Technology • Educational Technology
+### Artificial Intelligence • Assistive Technology • Educational Technology
 
-<strong>Transformando inteligência artificial em soluções que fazem sentido para pessoas.</strong>
+**Transformando inteligência artificial em soluções que fazem sentido para pessoas.**
 
-Sou profissional de tecnologia e pesquisador dedicado ao desenvolvimento de <strong>soluções de Inteligência Artificial aplicadas à educação, acessibilidade e tecnologia assistiva</strong>, com atuação especialmente voltada a <strong>pessoas neurodivergentes</strong>.
+Sou desenvolvedor e pesquisador independente, interessado em construir tecnologias que aproximem inteligência artificial, acessibilidade, educação e experiência humana.
 
-Meu trabalho envolve o desenvolvimento de sistemas inteligentes utilizando <strong>redes neurais artificiais, Machine Learning, visão computacional e interfaces acessíveis</strong>, buscando transformar desafios reais em ferramentas capazes de ampliar <strong>autonomia, comunicação, aprendizado e inclusão</strong>.
+Meu trabalho explora como software, aprendizado de máquina e interfaces acessíveis podem contribuir para autonomia, comunicação, inclusão e novas formas de interação com o mundo.
 
-Acredito na tecnologia como uma ponte entre <strong>conhecimento, criatividade e potencial humano</strong>.
+## Áreas de interesse
 
----
+- **Inteligência Artificial e Machine Learning:** modelos preditivos, aprendizado de padrões e personalização.
+- **Tecnologia Assistiva:** soluções para comunicação, autonomia e acessibilidade.
+- **Tecnologia Educacional:** experiências de aprendizagem adaptativas e acessíveis.
+- **Human-Centered AI:** desenvolvimento de tecnologias orientadas às necessidades das pessoas.
+- **APIs e sistemas inteligentes:** serviços experimentais, integração de sistemas e avaliação de modelos.
 
-🌻 Sobre mim
+## Projetos em destaque
 
-- 🤖 Inteligência Artificial e Machine Learning
-- 🧠 Desenvolvimento de soluções com <strong>redes neurais artificiais</strong>
-- 🧩 Tecnologia assistiva e acessibilidade digital
-- 🧠 Desenvolvimento de soluções para <strong>pessoas neurodivergentes</strong>
-- 🎓 IA aplicada à educação
-- 👁️ Visão computacional
-- 🌐 Desenvolvimento Web e aplicações inteligentes
-- 🔬 Pesquisa e experimentação com novas tecnologias
-- 🐍 Python, JavaScript e desenvolvimento de sistemas
+### Sensory Load API
+API experimental para estimar a carga sensorial associada a diferentes ambientes e horários.
 
-Meus projetos exploram principalmente a interseção entre:
+O projeto investiga uma abordagem baseada em fatores como ruído, iluminação, densidade de pessoas, imprevisibilidade e dificuldade de recuperação.
 
-<strong>IA × Redes Neurais × Educação × Acessibilidade × Tecnologia Assistiva × Experiência Humana</strong>
+- Desenvolvimento com Python e FastAPI.
+- Endpoints REST e validação de dados.
+- Testes automatizados e documentação.
+- Interface web demonstrativa para consulta de estimativas.
+- Evolução orientada por testes, transparência e validação progressiva.
 
----
+**Status:** protótipo experimental em desenvolvimento. Os dados, pesos e limites atuais não são cientificamente validados nem constituem uma avaliação clínica.
 
-🚀 Projetos em destaque
+🔗 [Repositório Sensory Load API](https://github.com/rafaelrmayer/sensory-load-api)
 
-🌻 A Jornada de Bia
+### A Jornada de Bia
+Projeto de comunicação assistiva voltado a pessoas autistas com necessidades complexas de comunicação. A proposta é oferecer recursos acessíveis para expressar necessidades, sentimentos e intenções, respeitando a individualidade de cada pessoa.
 
-<strong>"Não é sobre ensinar alguém a falar. É sobre garantir que sua voz possa ser ouvida."</strong>
+### COSMOS — Meu Lugar no Universo
+Conceito de tecnologia educacional para explorar astronomia, fenômenos físicos e o universo por meio de experiências interativas e sensorialmente amigáveis.
 
-A Jornada de Bia nasceu com um propósito maior do que desenvolver uma aplicação: <strong>criar uma ferramenta de comunicação e autonomia para pessoas autistas não verbais</strong>.
+### Rotina Visual Inteligente
+Exploração de personalização e aprendizado de padrões para apoiar experiências de rotina mais adaptadas às necessidades individuais.
 
-O projeto foi desenvolvido para ajudar pessoas que não utilizam a fala como principal forma de comunicação a <strong>expressar necessidades, sentimentos, escolhas e desejos</strong>, utilizando uma interface visual, acessível e previsível.
+### FaceLab
+Projeto de exploração de visão computacional e aplicações de inteligência artificial para análise e interação com imagens.
 
-Mais do que um projeto de tecnologia assistiva, A Jornada de Bia representa uma ideia simples:
+## Tecnologias
 
-<strong>não falar não significa não ter o que dizer.</strong>
+**Linguagens:** Python, JavaScript, HTML, CSS
 
-O girassol 🌻 representa essa jornada: crescimento, individualidade, luz e a possibilidade de cada pessoa encontrar sua própria forma de se expressar.
+**Backend e APIs:** FastAPI, Flask, REST
 
-O projeto explora conceitos de:
+**Inteligência Artificial:** Machine Learning, Random Forest, redes neurais e visão computacional
 
-- 🧩 <strong>Comunicação alternativa e aumentativa</strong>
-- 🧠 <strong>Neurodiversidade e acessibilidade</strong>
-- 💬 <strong>Autonomia e expressão individual</strong>
-- 🎨 <strong>Interfaces visuais acessíveis</strong>
-- 🔐 <strong>Segurança e privacidade</strong>
-- 📱 <strong>Progressive Web App (PWA)</strong>
-- 💾 <strong>Persistência e armazenamento local</strong>
-- ❤️ <strong>Tecnologia centrada na pessoa</strong>
+**Aplicações:** Progressive Web Apps (PWA), interfaces web acessíveis, testes automatizados e integração de sistemas
 
-<strong>Tecnologias:</strong> "HTML" "CSS" "JavaScript" "PWA" "Service Worker" "Web APIs"
+## Princípios de desenvolvimento
 
----
+- Tecnologia centrada nas pessoas.
+- Acessibilidade e inclusão desde a concepção.
+- Transparência sobre limitações e resultados experimentais.
+- Proteção de dados e responsabilidade no uso de IA.
+- Aprendizado contínuo, documentação e evolução incremental.
 
-🌌 COSMOS — Meu Lugar no Universo
+## Sobre este espaço
 
-Uma experiência digital desenvolvida para criar um ambiente <strong>sensorialmente amigável, educativo e acessível</strong>, especialmente pensado para crianças neurodivergentes.
+Este GitHub reúne experimentos, protótipos e projetos em evolução. Cada repositório representa uma etapa de aprendizado e desenvolvimento, com atenção à qualidade técnica e ao impacto que a tecnologia pode ter na vida cotidiana.
 
-O projeto combina tecnologia assistiva, exploração do universo e APIs científicas, incluindo dados da NASA.
+Acredito que a inteligência artificial tem mais valor quando deixa de ser apenas uma demonstração técnica e se transforma em uma ferramenta útil, compreensível e acessível.
 
-A proposta é transformar a tecnologia em uma experiência de descoberta, curiosidade e autonomia, criando um espaço onde <strong>educação, acessibilidade e imaginação possam coexistir</strong>.
-
-<strong>Tecnologias:</strong> "HTML" "CSS" "JavaScript" "APIs" "PWA" "NASA APIs" "Accessibility"
-
-<strong>"Feito para lembrar que todo mundo tem um lugar no Universo."</strong>
-
----
-
-🤖 Rotina Visual Inteligente
-
-Projeto experimental de <strong>IA aplicada à tecnologia assistiva</strong>, utilizando aprendizado de máquina para identificar padrões de utilização e realizar sugestões personalizadas.
-
-A aplicação explora uma abordagem de <strong>aprendizado contínuo</strong>, utilizando o comportamento do usuário para melhorar as recomendações ao longo do tempo.
-
-<strong>Tecnologias:</strong> "Python" "Flask" "scikit-learn" "NumPy" "JavaScript" "REST API" "Machine Learning"
-
----
-
-👁️ FaceLab
-
-Experimentos relacionados a <strong>visão computacional e Inteligência Artificial</strong>, explorando reconhecimento e processamento de imagens.
-
-<strong>Tecnologias:</strong> "Python" "Computer Vision" "Machine Learning"
-
----
-
-🛠️ Tecnologias
-
-Linguagens
-
-"Python" · "JavaScript" · "C" · "PHP"
-
-Inteligência Artificial
-
-"Machine Learning" · "Redes Neurais Artificiais" · "scikit-learn" · "NumPy" · "Visão Computacional"
-
-Desenvolvimento Web & Backend
-
-"HTML5" · "CSS3" · "JavaScript" · "Flask" · "REST APIs" · "PWA"
-
-Tecnologia & Ferramentas
-
-"Git" · "GitHub" · "Linux" · "Service Workers" · "Web APIs"
-
-Áreas de aplicação
-
-"Tecnologia Assistiva" · "Acessibilidade Digital" · "Educação" · "Neurodiversidade" · "Interfaces Inteligentes" · "Human-Centered AI"
-
----
-
-🔬 Áreas de interesse
-
-Artificial Intelligence
-Artificial Neural Networks
-Machine Learning
-Assistive Technology
-Educational Technology
-Neurodiversity & Accessibility
-Computer Vision
-Human-Centered AI
-Intelligent Interfaces
-Digital Inclusion
-Robotics
-
----
-
-🎓 Formação & Pesquisa
-
-Minha trajetória acadêmica e profissional combina diferentes áreas do conhecimento, incluindo:
-
-<strong>Gestão da Informação · Física · Ciência da Computação · Gestão de Pessoas</strong>
-
-Meus estudos e projetos estão concentrados na aplicação prática da <strong>Inteligência Artificial</strong>, especialmente em soluções que aproximam tecnologia, educação, acessibilidade e sociedade.
-
----
-
-🌎 Filosofia
-
-Acredito que tecnologia não deve existir apenas para tornar processos mais rápidos.
-
-Ela deve também tornar o mundo <strong>mais acessível, mais inteligente e mais humano</strong>.
-
-Por isso, meus projetos procuram explorar uma pergunta simples:
-
-«<strong>E se a inteligência artificial pudesse ajudar as pessoas não apenas a fazer mais, mas a viver melhor?</strong>»
-
----
-
-📫 Contato
-
-🌐 <strong>GitHub:</strong> https://github.com/rafaelrmayer
-
-📱 <strong>Instagram:</strong> https://instagram.com/rafael_rmayer
-
----
-
-🌻 Sempre explorando. Sempre aprendendo. Sempre construindo.
-
-<strong>Artificial Intelligence • Technology • Accessibility • Education • Human Potential</strong>
+**Tecnologia com propósito. Inteligência a serviço das pessoas.**
