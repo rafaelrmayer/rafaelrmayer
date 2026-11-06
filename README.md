@@ -4,7 +4,7 @@
 
 **Transformando inteligência artificial em soluções que fazem sentido para pessoas.**
 
-Sou desenvolvedor e pesquisador independente, com interesse em Inteligência Artificial (IA), Machine Learning, redes neurais artificiais, tecnologias assistivas, acessibilidade e educação tecnológica.
+Sou **Rafael Ricardo Mayer**, desenvolvedor e pesquisador independente, com interesse em Inteligência Artificial (IA), Machine Learning, redes neurais artificiais, tecnologias assistivas, acessibilidade e educação tecnológica.
 
 Desenvolvo projetos experimentais, APIs e aplicações que exploram como a tecnologia pode ajudar a resolver problemas reais, ampliar a autonomia das pessoas e tornar o conhecimento mais acessível.
 
@@ -62,7 +62,7 @@ O projeto parte de uma ideia fundamental: não é sobre ensinar alguém a falar,
 
 **Foco:** acessibilidade, autonomia, comunicação alternativa e aumentativa (CAA) e tecnologia centrada nas pessoas.
 
-🔗 [Explorar os projetos no GitHub](https://github.com/rafaelrmayer)
+🔗 [Repositório Jornada de Bia — linha Sakura](https://github.com/rafaelrmayer/jornada-de-Bia_Sakura_V.1.5)
 
 ### 🎧 Sensory Load API
 
@@ -74,12 +74,12 @@ O modelo considera fatores como ruído, iluminação, densidade de pessoas, impr
 - API REST desenvolvida com Python e FastAPI.
 - Avaliação experimental de características ambientais.
 - Consulta de informações por horário.
-- Registro e consulta de avaliações.
+- Cálculo de prévias de avaliação sem persistência e consulta de perfis horários demonstrativos.
 - Testes automatizados e documentação técnica.
 
 **Objetivo:** investigar como informações sobre ambientes podem ajudar pessoas a planejar visitas e compreender possíveis desafios sensoriais.
 
-**Status:** protótipo experimental com testes automatizados. Os parâmetros atuais ainda não constituem uma escala clinicamente validada.
+**Status:** protótipo experimental com testes automatizados definidos no repositório. Os parâmetros atuais não foram validados cientificamente; as avaliações não são persistidas.
 
 🔗 [Repositório Sensory Load API](https://github.com/rafaelrmayer/sensory-load-api)
 
@@ -96,9 +96,17 @@ A proposta é reunir pesquisa de empresas, qualificação de oportunidades e org
 - Exportação de dados.
 - Integração com fontes autorizadas e atenção à LGPD.
 
-**Status:** planejamento e desenvolvimento da primeira versão.
+**Status:** V1 com interface demonstrativa e dados fictícios. A consulta a fontes reais, o backend e a persistência são etapas futuras.
 
-🔗 [Repositórios do perfil](https://github.com/rafaelrmayer)
+🔗 [Repositório Prospecta V1](https://github.com/rafaelrmayer/Prospecta_V1)
+
+### INK Bia Cerisier
+
+Projeto de plataforma de gestão para tatuadores independentes e estúdios de tatuagem, desenvolvido por Rafael Ricardo Mayer.
+
+**Status:** apresentação inicial publicada neste repositório; a implementação ainda não está disponível nele.
+
+🔗 [Repositório INK Bia Cerisier](https://github.com/rafaelrmayer/ink-bia-cerisier)
 
 ### 🔭 Explorador do Universo
 
@@ -108,7 +116,7 @@ A proposta é estimular curiosidade científica, observação e experimentação
 
 **Temas:** astronomia, educação científica, simulações interativas e tecnologia educacional.
 
-🔗 [Conheça os projetos no GitHub](https://github.com/rafaelrmayer)
+🔗 [Repositório Explorador do Universo](https://github.com/rafaelrmayer/explorador-do-universo-v1)
 
 ---
 
@@ -151,6 +159,10 @@ Pytest • Vitest • Testes automatizados • Validação de dados
 Git • GitHub • GitHub Codespaces • Progressive Web Apps (PWA) • Documentação técnica
 
 *As tecnologias utilizadas variam de acordo com cada projeto.*
+
+## Propósito
+
+> Não quero apenas deixar um legado de tecnologia para minhas filhas. Quero ajudar a construir o mundo em que elas vão viver, e contribuir para que esse mundo também seja melhor para outras pessoas.
 
 ## 🌱 Princípios de desenvolvimento
 
