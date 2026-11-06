@@ -8,11 +8,15 @@ Sou **Rafael Ricardo Mayer**, desenvolvedor, pesquisador independente e autor de
 
 Uma das minhas principais áreas de atuação é o **desenvolvimento de soluções tecnológicas para pessoas neurodivergentes, especialmente pessoas autistas**, com atenção à comunicação, autonomia, inclusão e respeito às diferentes formas de interação com o mundo.
 
+Como pai, encontro motivação em necessidades humanas reais. Procuro desenvolver ferramentas que ampliem possibilidades de expressão e autonomia, reconhecendo que cada pessoa tem experiências, preferências e necessidades próprias. A tecnologia deve apoiar escolhas, não falar pelas pessoas.
+
 Meu trabalho reúne pesquisa aplicada, experimentação e desenvolvimento de aplicações, APIs e ferramentas que buscam resolver problemas reais.
 
 Acredito que a tecnologia deve ampliar possibilidades, promover autonomia e tornar o conhecimento mais acessível.
 
 📍 Curitiba, Paraná, Brasil
+
+🌐 **[Meu portfólio e projetos](https://rafaelrmayer.github.io/)**
 
 ---
 
@@ -28,7 +32,7 @@ O projeto explora comunicação visual, personalização, acessibilidade e possi
 
 > Não é sobre ensinar alguém a falar. É sobre garantir que sua voz possa ser ouvida.
 
-🔗 [Conhecer a Jornada de Bia](https://github.com/rafaelrmayer/jornada-de-Bia_Sakura_V.1.5)
+🔗 [Conhecer a Jornada de Bia — Sakura V9.1](https://github.com/rafaelrmayer/jornada-de-Bia_Sakura_V_9.1) · [Experimentar o aplicativo](https://rafaelrmayer.github.io/jornada-de-Bia_Sakura_V_9.1/)
 
 ### 🌿 Sensory Load API
 
@@ -36,11 +40,11 @@ O projeto explora comunicação visual, personalização, acessibilidade e possi
 
 API experimental para estimar a carga sensorial de ambientes, considerando ruído, iluminação, densidade de pessoas, imprevisibilidade e dificuldade de recuperação sensorial.
 
-O projeto investiga como informações ambientais podem contribuir para o planejamento de atividades e a acessibilidade de pessoas com diferentes necessidades sensoriais.
+O projeto investiga como informações ambientais podem contribuir para o planejamento de atividades e a acessibilidade de pessoas com diferentes necessidades sensoriais. A V0.1 já conta com **interface web demonstrativa**, consulta por ambiente e horário, visualização dos cinco fatores e gráfico de evolução sensorial, utilizando dados fictícios. Os **12 testes automatizados passaram** na última execução registrada em Codespaces (06/11/2026).
 
 Os dados e parâmetros atuais são demonstrativos e ainda não foram validados cientificamente.
 
-🔗 [Conhecer a Sensory Load API](https://github.com/rafaelrmayer/sensory-load-api)
+🔗 [Conhecer a Sensory Load API e sua demonstração](https://github.com/rafaelrmayer/sensory-load-api)
 
 ### 🌻 Rede Girassol API
 
