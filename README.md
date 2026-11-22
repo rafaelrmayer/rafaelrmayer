@@ -134,7 +134,7 @@ Atualmente, outros **dois livros estão em processo de revisão**, dando continu
 
 ## 🌱 Tecnologia com propósito
 
-> Não quero apenas deixar um legado de tecnologia para minhas filhas. Quero ajudar a construir o mundo em que elas vão viver, e contribuir para que esse mundo também seja melhor para outras pessoas.
+> Não quero apenas deixar um legado de tecnologia para minha filha. Quero ajudar a construir o mundo em que ela vai viver e contribuir para que esse mundo também seja melhor para outras pessoas.
 
 Esse propósito conecta meus projetos e orienta minha forma de pesquisar, desenvolver e aprender.
 
