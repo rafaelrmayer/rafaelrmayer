@@ -24,7 +24,7 @@ O aplicativo permite montar frases com cartões visuais, ouvir as frases com sí
 
 > Não é sobre ensinar alguém a falar. É sobre garantir que sua voz possa ser ouvida.
 
-🔗 [Conhecer a Jornada de Bia — Sakura V9.1](https://github.com/rafaelrmayer/jornada-de-Bia_Sakura_V_9.1) · [Experimentar o aplicativo](https://rafaelrmayer.github.io/jornada-de-Bia_Sakura_V_9.1/)
+🔗 [Ver repositório da Jornada de Bia](https://github.com/rafaelrmayer/jornada-de-Bia_Sakura_V_9.1) · [Experimentar o aplicativo](https://rafaelrmayer.github.io/jornada-de-Bia_Sakura_V_9.1/)
 
 ### 🧠 Neural API
 
