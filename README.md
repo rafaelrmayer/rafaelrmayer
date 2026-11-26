@@ -104,7 +104,7 @@ Conceito de aplicação educacional voltada à exploração de astronomia e fen�
 
 Além do desenvolvimento de software, dedico-me à pesquisa e à produção escrita, explorando as relações entre inteligência artificial, acessibilidade, comunicação e inclusão.
 
-### 📖 Livro publicado na Amazon
+### 📖 Redes Neurais Artificiais e Comunicação Personalizada
 
 **Redes Neurais Artificiais e Comunicação Personalizada: Uma Proposta de Arquitetura Adaptativa para Inclusão de Pessoas Autistas com Necessidades Complexas de Comunicação**
 
@@ -118,9 +118,11 @@ A publicação está relacionada aos meus interesses em inteligência artificial
 
 📖 **[Conheça o livro na Amazon](https://www.amazon.com.br/dp/B0HMPHYPT6)**
 
-### ✍️ Próximas publicações
+### 📖 Cosmos Algorítmico
 
-Atualmente, outros **dois livros estão em processo de revisão**, dando continuidade à minha produção escrita e às minhas atividades de pesquisa.
+Publicação de Rafael Ricardo Mayer sobre inteligência artificial e astronomia.
+
+📖 **[Conheça Cosmos Algorítmico na Amazon](https://www.amazon.com.br/dp/B0HRRX3TMY)**
 
 ---
 
@@ -168,6 +170,7 @@ Estou aberto a conversas, trocas de conhecimento e colaborações relacionadas a
 - 💻 **GitHub:** [github.com/rafaelrmayer](https://github.com/rafaelrmayer)
 - 📸 **Instagram:** [@rafael_rmayer](https://www.instagram.com/rafael_rmayer/)
 - 📚 **Livro na Amazon:** [Redes Neurais Artificiais e Comunicação Personalizada](https://www.amazon.com.br/dp/B0HMPHYPT6)
+- 📚 **Livro na Amazon:** [Cosmos Algorítmico](https://www.amazon.com.br/dp/B0HRRX3TMY)
 
 ---
 
