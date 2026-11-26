@@ -26,6 +26,18 @@ O aplicativo permite montar frases com cartões visuais, ouvir as frases com sí
 
 🔗 [Ver repositório da Jornada de Bia](https://github.com/rafaelrmayer/jornada-de-Bia_Sakura_V_9.1) · [Experimentar o aplicativo](https://rafaelrmayer.github.io/jornada-de-Bia_Sakura_V_9.1/)
 
+### 🦒 Pequenas Girafas
+
+**Alfabetização inclusiva | Python · FastAPI | JavaScript | Processamento local**
+
+Ao lado da Jornada de Bia, que apoia a comunicação, Pequenas Girafas explora letras e palavras com imagens, áudio em português brasileiro e letras móveis. A demonstração permite associar imagem e palavra, completar uma letra e montar palavras por clique ou arraste.
+
+As sugestões de atividades usam regras e um grafo semântico local. O progresso fica no dispositivo, sem envio do histórico de aprendizagem ao servidor. As atividades podem ser escolhidas livremente; não há modelo treinado de aprendizagem nesta versão.
+
+**Demonstração experimental, sem validação pedagógica.** Código disponível para reutilização não comercial sob PolyForm Noncommercial 1.0.0, preservando os termos e os avisos de autoria. Componentes de terceiros mantêm condições próprias.
+
+🔗 [Experimentar Pequenas Girafas](https://pequenas-girafas.onrender.com/) · [Ver repositório e licença](https://github.com/rafaelrmayer/pequenas-girafas)
+
 ### 🧠 Neural API
 
 **Python | PyTorch | FastAPI**
