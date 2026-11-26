@@ -12,6 +12,12 @@ Desenvolvo aplicativos e APIs que apoiam a comunicação e a autonomia de pessoa
 
 ---
 
+## Projetos independentes, um propósito comum
+
+![Mapa dos projetos em torno da neurodiversidade: Jornada de Bia — comunicar; Pequenas Girafas — aprender; Sensory Load — acessibilidade; Rede Girassol — cuidar; Non Verbal — compreender.](assets/mapa-projetos.png)
+
+Comunicação, aprendizagem, acessibilidade e acesso à informação. Ilustração criada com auxílio de IA; cada projeto tem seu próprio estágio de desenvolvimento.
+
 ## 🚀 Projetos em destaque
 
 ### 🌸 A Jornada de Bia
