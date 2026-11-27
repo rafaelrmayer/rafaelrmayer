@@ -58,11 +58,11 @@ A API explora como redes neurais podem ordenar sugestões de cartões de comunic
 
 API experimental para estimar a carga sensorial de ambientes, considerando ruído, iluminação, densidade de pessoas, imprevisibilidade e dificuldade de recuperação sensorial.
 
-Na demonstração web, você pode escolher um ambiente e um horário, consultar os cinco fatores e acompanhar como a carga sensorial varia ao longo do dia. A interface usa dados fictícios.
+Na demonstração web, você pode escolher um ambiente e um horário, consultar os cinco fatores e acompanhar como a carga sensorial varia ao longo do dia. A interface usa dados fictícios, permite comparar dois cenários e simular os cinco fatores sem salvar avaliações. Publicação no RapidAPI e testes de encaminhamento confirmados pelo responsável em 27/11/2026.
 
 Os dados e parâmetros atuais são demonstrativos e ainda não foram validados cientificamente.
 
-🔗 [Conhecer a Sensory Load API e sua demonstração](https://github.com/rafaelrmayer/sensory-load-api)
+🔗 [Experimentar a demonstração](https://sensory-load-api.onrender.com/) · [Acessar no RapidAPI](https://rapidapi.com/RafaelMayer/api/sensory-load-api) · [Documentação](https://sensory-load-api.onrender.com/docs) · [Ver código](https://github.com/rafaelrmayer/sensory-load-api)
 
 ### 🌻 Rede Girassol API
 
